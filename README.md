@@ -22,6 +22,12 @@ Skills 本质上是一个目录结构，包含 SKILL.md 文件（指令和元数
 - [Skills Marketplace](https://skillsmp.com/) \
 Skills Marketplace 是一个 agent skills 的发现平台：聚合 63000+ 来自 GitHub 的 skills，提供智能搜索和分类，提供一键安装命令。
 
+- [SkillStore](https://skillstore.io/) \
+开放的 AI 技能市场。发现、安装并分享为 Claude、Codex 与 Claude Code 预构建的能力。
+
+- [Skills.sh](https://skills.sh/) \
+The open agent skills ecosystem.
+
 - [Claude Marketplace](https://claudemarketplaces.com/) 
 
 - [AITmpl Skills](https://www.aitmpl.com/skills) 
