@@ -54,6 +54,10 @@ Hugging Face 官方技能库，提供 Agent Context Protocol (ACP) 定义的 AI/
 - [OpenAI Skills](https://github.com/openai/skills) \
 OpenAI 为 Codex 代理提供的技能目录，汇集指令、脚本和资源的文件夹，帮助 AI 代理重复执行特定任务，实现“一次编写，到处使用”。
 
+### 精选 Skills
+
+- [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills)
+Antigravity Awesome Skills 是一个经过精心挑选和实战检验的库，包含 978 多个高性能智能体技能， 旨在与所有主流 AI 编码助手无缝协作。
 
 ---
 
